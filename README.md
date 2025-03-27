@@ -1,2 +1,3 @@
 # hello-world
 Practicing creating a repository
+The guide says to write a bit about myself, but I don't really feel like doing that, so...
